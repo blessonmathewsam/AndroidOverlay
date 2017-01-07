@@ -1,0 +1,14 @@
+Modified Files
+
+Activity.java - framework/base/core/java/android/app/Activity.java
+ContextThemeWrapper.java - framework/base/core/java/android/view/ContextThemeWrapper.java
+Window.java - framework/base/core/java/android/view/Window.java
+PhoneWindow.java - framework/base/core/java/com/android/internal/policy/PhoneWindow.java
+DecorView.java - framework/base/core/java/com/android/internal/policy/DecorView.java
+TypedArray.java - framework/base/core/java/android/content/res/TypedArray.java
+Context.java - framework/base/core/java/android/content/Context.java
+
+WindowManagerService - framework/base/services/core/java/com/android/server/wm/WindowManagerService.java
+ActivityRecord.java - framework/base/services/core/java/com/android/server/am/ActivityRecord.java
+
+Chathead Service App - /packages/apps/chatheads 
